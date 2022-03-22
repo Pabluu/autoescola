@@ -40,5 +40,4 @@
 			@yield("tabela")
 		</div>
 	</body>
->>>>>>> a681ea269a90f340b9924f374374587bb4c9f616
 </html>
